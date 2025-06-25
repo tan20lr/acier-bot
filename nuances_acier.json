@@ -1,0 +1,1040 @@
+return [{
+  json: {
+    message_utilisateur: $json["message"]["text"],
+    base_aciers: [
+  {
+    "Nom": "S185",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Charpentes métalliques légères, construction générale",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S235JR",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Construction métallique courante (profilés, tôles), structures soudées",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S235J0",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Construction métallique (tenue aux basses températures améliorée)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S235J2",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Construction métallique (tenue aux basses températures améliorée)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S275JR",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Construction métallique, charpentes et structures plus résistantes que S235",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S275J0",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Construction métallique (basses températures)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S275J2",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Construction métallique (basses températures)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355JR",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Constructions métalliques robustes, structures soudées sollicitées",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355J0",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Constructions métalliques (aptitude au soudage améliorée à basse température)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355J2",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Constructions métalliques (aptitude au soudage améliorée à basse température)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355K2",
+    "Catégorie": "Acier de construction (LAC)",
+    "Applications typiques": "Constructions métalliques à haute résilience (grandes épaisseurs, basses températures)",
+    "Type de traitement": "Laminé à chaud (non allié)",
+    "Norme": "EN 10025-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S235J0W",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Construction métallique en atmosphère extérieure (profilés, ponts) sans peinture",
+    "Type de traitement": "Laminé à chaud (acier résistant à la corrosion atmosphérique)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S235J2W",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Construction métallique en atmosphère extérieure, forte résilience",
+    "Type de traitement": "Laminé à chaud (acier résistant à la corrosion atmosphérique)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355J0W",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Ouvrages d'art, structures exposées aux intempéries sans peinture",
+    "Type de traitement": "Laminé à chaud (acier autopatinable)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355J2W",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Ouvrages d'art, structures exposées aux intempéries sans peinture",
+    "Type de traitement": "Laminé à chaud (acier autopatinable)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355J0WP",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Structures en profilés laminés exposées sans protection anticorrosion",
+    "Type de traitement": "Laminé à chaud (acier autopatinable, teneur en Phosphore améliorant la patine)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355J2WP",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Structures en tôles ou profilés exposées sans protection anticorrosion, haute résilience",
+    "Type de traitement": "Laminé à chaud (acier autopatinable)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S355K2W",
+    "Catégorie": "Acier de construction autopatinable (LAC)",
+    "Applications typiques": "Ouvrages d'art de grande épaisseur exposés sans protection anticorrosion, très haute résilience",
+    "Type de traitement": "Laminé à chaud (acier autopatinable)",
+    "Norme": "EN 10025-5",
+    "État de surface": "Noir (patine protectrice)",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A30/FR"
+  },
+  {
+    "Nom": "S315MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Pièces mécaniques formées à froid (structures de véhicules, bennes, etc.)",
+    "Type de traitement": "Laminé à chaud (microallié, formage à froid)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S355MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Pièces mécaniques résistantes, emboutissage et pliage pour poids léger (châssis, renforts)",
+    "Type de traitement": "Laminé à chaud (microallié, formage à froid)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S420MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Structures et équipements sollicités (levage, bénéficiant d'une épaisseur réduite)",
+    "Type de traitement": "Laminé à chaud (microallié, formage à froid)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Structures et équipements très sollicités (réduction de poids, ex: grues, véhicules lourds)",
+    "Type de traitement": "Laminé à chaud (microallié)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S500MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Applications spéciales très haute résistance (structure de véhicules, etc.)",
+    "Type de traitement": "Laminé à chaud (microallié)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S550MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Équipements très haute résistance (réduction de poids maximale)",
+    "Type de traitement": "Laminé à chaud (microallié)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S600MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Équipements spéciaux à très haute résistance (disponible sur demande)",
+    "Type de traitement": "Laminé à chaud (microallié)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S700MC",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Équipements spéciaux à ultra haute résistance (disponible sur demande)",
+    "Type de traitement": "Laminé à chaud (microallié)",
+    "Norme": "EN 10149-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S420N",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Construction métallique à haute résistance (tôles fortes normalisées)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10025-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S420NL",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Construction métallique à haute résistance (tenue à basse température améliorée)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10025-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S420M",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Ouvrages métalliques soudés à haute résistance (tôles fortes thermomécaniques)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, thermomécaniquement laminé)",
+    "Norme": "EN 10025-4",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S420ML",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Ouvrages soudés à haute résistance (grandes épaisseurs, basse température)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, thermomécanique)",
+    "Norme": "EN 10025-4",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460N",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Construction métallique très haute résistance (tôles fortes)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10025-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460NL",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Construction métallique très haute résistance (basses températures, fortes épaisseurs)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10025-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460M",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Équipements soudés très haute résistance (ex: grues, thermomécanique)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, thermomécanique)",
+    "Norme": "EN 10025-4",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460ML",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Équipements soudés très haute résistance (grandes épaisseurs, base temp)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, thermomécanique)",
+    "Norme": "EN 10025-4",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460Q",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Applications spéciales extrême résistance (trempé-revenu)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S460QL",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Applications spéciales extrême résistance (basses temp, trempé-revenu)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S690Q",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Structures très légères à haute résistance (trempé-revenu)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir ou décapé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S690QL",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Structures très légères à très haute résistance (trempé-revenu, basse temp)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S690QL1",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Idem S690QL avec contrôle supplémentaire (très basse temp)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S890Q",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Applications extrêmes à ultra-haute résistance (trempé-revenu)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S890QL",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Applications extrêmes (très basse température, trempé-revenu)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "S890QL1",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Applications extrêmes à très basse température (trempé-revenu)",
+    "Type de traitement": "Laminé à chaud (acier trempé et revenu)",
+    "Norme": "EN 10025-6",
+    "État de surface": "Noir",
+    "Lien": "https://industry.arcelormittal.com/catalogue/A20/FR"
+  },
+  {
+    "Nom": "HC340LA",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Pièces mécaniques embouties à résistance améliorée",
+    "Type de traitement": "Laminé à froid (hautement allié)",
+    "Norme": "EN 10268",
+    "État de surface": "Brut laminé à froid, huilé",
+    "Lien": ""
+  },
+  {
+    "Nom": "HC380LA",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Pièces mécaniques embouties à résistance améliorée",
+    "Type de traitement": "Laminé à froid (hautement allié)",
+    "Norme": "EN 10268",
+    "État de surface": "Brut laminé à froid, huilé",
+    "Lien": ""
+  },
+  {
+    "Nom": "HC420LA",
+    "Catégorie": "Acier haute limite élastique (HLE)",
+    "Applications typiques": "Pièces mécaniques embouties à très haute résistance",
+    "Type de traitement": "Laminé à froid (hautement allié)",
+    "Norme": "EN 10268",
+    "État de surface": "Brut laminé à froid, huilé",
+    "Lien": ""
+  },
+  {
+    "Nom": "DD11",
+    "Catégorie": "Acier pour formage à froid (LAC)",
+    "Applications typiques": "Découpe et emboutissage simple (pièces métalliques, chaudronnerie fine)",
+    "Type de traitement": "Laminé à chaud (acier doux pour emboutissage)",
+    "Norme": "EN 10111",
+    "État de surface": "Noir ou décapé, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DD12",
+    "Catégorie": "Acier pour formage à froid (LAC)",
+    "Applications typiques": "Emboutissage approfondi de pièces (ménager, pièces auto)",
+    "Type de traitement": "Laminé à chaud (acier doux pour emboutissage)",
+    "Norme": "EN 10111",
+    "État de surface": "Noir ou décapé, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DD13",
+    "Catégorie": "Acier pour formage à froid (LAC)",
+    "Applications typiques": "Emboutissage très profond et pièces complexes",
+    "Type de traitement": "Laminé à chaud (acier doux pour emboutissage)",
+    "Norme": "EN 10111",
+    "État de surface": "Noir ou décapé, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DD14",
+    "Catégorie": "Acier pour formage à froid (LAC)",
+    "Applications typiques": "Emboutissage extrême (pièces très complexes)",
+    "Type de traitement": "Laminé à chaud (acier doux pour emboutissage)",
+    "Norme": "EN 10111",
+    "État de surface": "Noir ou décapé, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC01",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Découpe fine, pliage et emboutissage léger (pièces planches, carrosserie)",
+    "Type de traitement": "Laminé à froid (acier doux)",
+    "Norme": "EN 10130",
+    "État de surface": "Surface brute laminée à froid, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC03",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Emboutissage moyen (profils, pièces ménager ou auto)",
+    "Type de traitement": "Laminé à froid (acier doux)",
+    "Norme": "EN 10130",
+    "État de surface": "Surface brute laminée à froid, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC04",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Emboutissage approfondi (panneaux de carrosserie, électroménager)",
+    "Type de traitement": "Laminé à froid (acier doux)",
+    "Norme": "EN 10130",
+    "État de surface": "Surface brute laminée à froid, huilé",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC05",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Emboutissage très poussé, requis haute ductilité",
+    "Type de traitement": "Laminé à froid (acier extra-doux)",
+    "Norme": "EN 10130",
+    "État de surface": "Surface laminée à froid, huilée",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC06",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Emboutissage extrême, pièces à très haute déformation (automobile)",
+    "Type de traitement": "Laminé à froid (acier extra-doux)",
+    "Norme": "EN 10130",
+    "État de surface": "Surface laminée à froid, huilée",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC07",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Emboutissage extrême de précision (très rare)",
+    "Type de traitement": "Laminé à froid (acier ultra doux)",
+    "Norme": "EN 10130",
+    "État de surface": "Surface laminée à froid, huilée",
+    "Lien": "https://industry.arcelormittal.com/catalogue/B10/FR"
+  },
+  {
+    "Nom": "DC01EK",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Émaillage sur tôle laminée à froid (qualité d'apprêt, électroménager, sanitaires)",
+    "Type de traitement": "Laminé à froid (spécial émaillage)",
+    "Norme": "EN 10209",
+    "État de surface": "Surface laminée à froid, décapée",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC03ED",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Émaillage direct (pas de dégraissage nécessaire avant émaillage)",
+    "Type de traitement": "Laminé à froid (spécial émaillage direct)",
+    "Norme": "EN 10209",
+    "État de surface": "Décapé non huilé (prêt à émailler)",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC04EK",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Émaillage sur pièces embouties (qualité apprêt)",
+    "Type de traitement": "Laminé à froid (spécial émaillage)",
+    "Norme": "EN 10209",
+    "État de surface": "Surface laminée à froid, décapée",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC04ED",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Émaillage direct de pièces complexes (haute qualité d'émail)",
+    "Type de traitement": "Laminé à froid (spécial émaillage direct)",
+    "Norme": "EN 10209",
+    "État de surface": "Décapé non huilé",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC06EK",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Émaillage sur tôles très profondes (qualité apprêt, usage spécial)",
+    "Type de traitement": "Laminé à froid (spécial émaillage)",
+    "Norme": "EN 10209",
+    "État de surface": "Surface laminée à froid, décapée",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC06ED",
+    "Catégorie": "Acier pour formage à froid (LAF)",
+    "Applications typiques": "Émaillage direct sur tôle extra-douce (usage très spécialisé)",
+    "Type de traitement": "Laminé à froid (spécial émaillage direct)",
+    "Norme": "EN 10209",
+    "État de surface": "Décapé non huilé",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC01+ZE",
+    "Catégorie": "Acier électrozingué",
+    "Applications typiques": "Mêmes usages que DC01 (emboutissage léger) avec protection anticorrosion",
+    "Type de traitement": "Revêtu électrozingué (zinc électrolytique)",
+    "Norme": "EN 10152",
+    "État de surface": "Zingué électrolytique (couche fine de zinc)",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC03+ZE",
+    "Catégorie": "Acier électrozingué",
+    "Applications typiques": "Mêmes usages que DC03 (emboutissage moyen) avec protection anticorrosion",
+    "Type de traitement": "Revêtu électrozingué",
+    "Norme": "EN 10152",
+    "État de surface": "Zingué électrolytique",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC04+ZE",
+    "Catégorie": "Acier électrozingué",
+    "Applications typiques": "Mêmes usages que DC04 (emboutissage profond) avec protection anticorrosion",
+    "Type de traitement": "Revêtu électrozingué",
+    "Norme": "EN 10152",
+    "État de surface": "Zingué électrolytique",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC05+ZE",
+    "Catégorie": "Acier électrozingué",
+    "Applications typiques": "Mêmes usages que DC05 (emboutissage très poussé) avec protection anticorrosion",
+    "Type de traitement": "Revêtu électrozingué",
+    "Norme": "EN 10152",
+    "État de surface": "Zingué électrolytique",
+    "Lien": ""
+  },
+  {
+    "Nom": "DC06+ZE",
+    "Catégorie": "Acier électrozingué",
+    "Applications typiques": "Mêmes usages que DC06 (emboutissage extrême) avec protection anticorrosion",
+    "Type de traitement": "Revêtu électrozingué",
+    "Norme": "EN 10152",
+    "État de surface": "Zingué électrolytique",
+    "Lien": ""
+  },
+  {
+    "Nom": "DX51D",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Profilage et pliage simples (bardage, toitures légères)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud (Z, ZF, ZA, AZ ou AS)",
+    "Lien": ""
+  },
+  {
+    "Nom": "DX52D",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Faible emboutissage sous protection anticorrosion (carrosserie simple, électroménager)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "DX53D",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Emboutissage courant avec protection anticorrosion (pièces automobile)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "DX54D",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Emboutissage profond protégé (pièces complexes type ailes de voiture)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "DX56D",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Emboutissage très profond avec anticorrosion (cas spéciaux)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "DX57D",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Emboutissage extrême avec anticorrosion (très rare)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S220GD",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Profilés formés à froid pour construction (pannes, charpentes légères)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S250GD",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Profilés formés pour construction (pannes, bardages)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S280GD",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Profilés et éléments de structure galvanisés",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S320GD",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Profilés et éléments de structure galvanisés",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S350GD",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Éléments de structure galvanisés haute résistance (pannes, profilés)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S550GD",
+    "Catégorie": "Acier galvanisé",
+    "Applications typiques": "Éléments de structure galvanisés très haute résistance (profilés à haute limite)",
+    "Type de traitement": "Revêtu galvanisé à chaud",
+    "Norme": "EN 10346",
+    "État de surface": "Zingué à chaud",
+    "Lien": ""
+  },
+  {
+    "Nom": "S200 Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles prêtes pour découpe laser (pièces complexes en petite série)",
+    "Type de traitement": "Laminé à chaud décapé (qualité planifié laser)",
+    "Norme": "EN 10111 (base DD12)",
+    "État de surface": "Décapé, film sèche spécial",
+    "Lien": ""
+  },
+  {
+    "Nom": "S240 Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles prêtes pour découpe laser (châssis légers, pièces générales)",
+    "Type de traitement": "Laminé à chaud décapé (planifié spécial)",
+    "Norme": "EN 10025-2 (base S235JR)",
+    "État de surface": "Décapé huilé ou film sèche",
+    "Lien": ""
+  },
+  {
+    "Nom": "S275 Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles découpe laser haute résistance (structures)",
+    "Type de traitement": "Laminé à chaud décapé (planifié spécial)",
+    "Norme": "EN 10025-2 (base S275JR)",
+    "État de surface": "Décapé huilé ou film",
+    "Lien": ""
+  },
+  {
+    "Nom": "S355 Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles découpe laser pour pièces structurelles épaisses",
+    "Type de traitement": "Laminé à chaud décapé (planifié spécial)",
+    "Norme": "EN 10025-2 (base S355JR)",
+    "État de surface": "Décapé huilé ou film",
+    "Lien": ""
+  },
+  {
+    "Nom": "S320MC Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles laser haute résistance (315 MPa) avec planéité garantie",
+    "Type de traitement": "Laminé à chaud décapé (planifié HLE)",
+    "Norme": "EN 10149-2 (base S315MC)",
+    "État de surface": "Décapé huilé ou film",
+    "Lien": ""
+  },
+  {
+    "Nom": "S360MC Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles laser haute résistance (355 MPa) pour pièces complexes et fines",
+    "Type de traitement": "Laminé à chaud décapé (planifié HLE)",
+    "Norme": "EN 10149-2 (base S355MC)",
+    "État de surface": "Décapé huilé ou film",
+    "Lien": ""
+  },
+  {
+    "Nom": "S420MC Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles laser HLE (420 MPa) pour réalisation de pièces complexes",
+    "Type de traitement": "Laminé à chaud décapé (planifié HLE)",
+    "Norme": "EN 10149-2 (base S420MC)",
+    "État de surface": "Décapé huilé ou film",
+    "Lien": ""
+  },
+  {
+    "Nom": "S500MC Laser",
+    "Catégorie": "Acier pour découpe laser",
+    "Applications typiques": "Tôles laser HLE extrême (500 MPa) pour pièces spéciales",
+    "Type de traitement": "Laminé à chaud décapé (planifié HLE)",
+    "Norme": "EN 10149-2 (base S500MC)",
+    "État de surface": "Décapé huilé ou film",
+    "Lien": ""
+  },
+  {
+    "Nom": "P235GH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Chaudières et réservoirs de faible épaisseur fonctionnant à température modérée",
+    "Type de traitement": "Laminé à chaud (acier non allié pour pression)",
+    "Norme": "EN 10028-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P265GH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Chaudières et générateurs de vapeur, réservoirs sous pression",
+    "Type de traitement": "Laminé à chaud (acier non allié pour pression)",
+    "Norme": "EN 10028-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P295GH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Réservoirs à pression de moyenne épaisseur, applications pétrochimiques",
+    "Type de traitement": "Laminé à chaud (acier non allié pour pression)",
+    "Norme": "EN 10028-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P355GH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Réservoirs à pression épaisseur élevée, chaudières puissantes",
+    "Type de traitement": "Laminé à chaud (acier non allié pour pression)",
+    "Norme": "EN 10028-2",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P235S",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Réservoirs simples soudés non soumis à la directive équipements sous pression",
+    "Type de traitement": "Laminé à chaud",
+    "Norme": "EN 10207",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P265S",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression simples (ex: petits compresseurs)",
+    "Type de traitement": "Laminé à chaud",
+    "Norme": "EN 10207",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P275NH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Réservoirs à pression de moyenne épaisseur, bonne tenue à température",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P275NL1",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Réservoirs à pression (tenue à basse température améliorée)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P275NL2",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Réservoirs à pression (très basse température)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P355N",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression épaisseur élevée, conditions sévères",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P355NH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression (températures élevées prolongées)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P355NL1",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression (grandes épaisseurs, basse température)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P355NL2",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression (très basse température, épaisseurs élevées)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P460NH",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression à haute résistance (grandes épaisseurs)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P460NL1",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression à haute résistance (basses températures)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P460NL2",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Appareils à pression à haute résistance (très basses températures)",
+    "Type de traitement": "Laminé à chaud (acier à grains fins, normalisé)",
+    "Norme": "EN 10028-3",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P245NB",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Bouteilles de gaz soudées rechargeables (déformations modérées)",
+    "Type de traitement": "Laminé à chaud (acier pour bouteilles de gaz)",
+    "Norme": "EN 10120",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P265NB",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Bouteilles de gaz soudées haute résistance (O2, N2, etc.)",
+    "Type de traitement": "Laminé à chaud (acier pour bouteilles de gaz)",
+    "Norme": "EN 10120",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P310NB",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Bouteilles de gaz volume moyen (haute résistance)",
+    "Type de traitement": "Laminé à chaud (acier pour bouteilles de gaz)",
+    "Norme": "EN 10120",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "P355NB",
+    "Catégorie": "Acier pour appareils à pression",
+    "Applications typiques": "Bouteilles de gaz de grande capacité (très haute résistance)",
+    "Type de traitement": "Laminé à chaud (acier pour bouteilles de gaz)",
+    "Norme": "EN 10120",
+    "État de surface": "Noir ou décapé",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 430",
+    "Catégorie": "Acier inoxydable (Ferritique)",
+    "Applications typiques": "Appareils ménagers, décoration, environnements peu corrosifs",
+    "Type de traitement": "Inox ferritique (17% Cr, non durcissable)",
+    "Norme": "EN 10088-1 (1.4016)",
+    "État de surface": "Bobines ou tôles laminées à froid, fini 2B ou 2R",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 304L",
+    "Catégorie": "Acier inoxydable (Austénitique)",
+    "Applications typiques": "Cuves, tuyauteries, industries agro-alimentaires, architecture",
+    "Type de traitement": "Inox austénitique (18% Cr - 8% Ni, faible C)",
+    "Norme": "EN 10088-1 (1.4307)",
+    "État de surface": "Tôles laminées à froid, fini 2B ou 2R",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 321",
+    "Catégorie": "Acier inoxydable (Austénitique)",
+    "Applications typiques": "Pièces soudées en température (échangeurs, chaudières) résistantes à la corrosion",
+    "Type de traitement": "Inox austénitique stabilisé (18% Cr - 10% Ni - Ti)",
+    "Norme": "EN 10088-1 (1.4541)",
+    "État de surface": "Tôles laminées à froid (2B) ou laminées à chaud décapées",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 316L",
+    "Catégorie": "Acier inoxydable (Austénitique)",
+    "Applications typiques": "Industrie chimique, marine, environnements chlorures (plus résistant que 304)",
+    "Type de traitement": "Inox austénitique (17% Cr - 12% Ni - 2.5% Mo, faible C)",
+    "Norme": "EN 10088-1 (1.4404)",
+    "État de surface": "Tôles laminées à froid, fini 2B ou 2R",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 316Ti",
+    "Catégorie": "Acier inoxydable (Austénitique)",
+    "Applications typiques": "Installations chimiques ou thermiques jusqu’à 300°C, soudables sans sensibilisation",
+    "Type de traitement": "Inox austénitique stabilisé (17% Cr - 12% Ni - 2.5% Mo - Ti)",
+    "Norme": "EN 10088-1 (1.4571)",
+    "État de surface": "Tôles laminées à froid, fini 2B",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 317L",
+    "Catégorie": "Acier inoxydable (Austénitique)",
+    "Applications typiques": "Industrie chimique (teneur en Mo élevée pour milieux très corrosifs)",
+    "Type de traitement": "Inox austénitique (18% Cr - 15% Ni - 4% Mo, faible C)",
+    "Norme": "EN 10088-1 (1.4438)",
+    "État de surface": "Tôles laminées à froid, fini 2B",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 441",
+    "Catégorie": "Acier inoxydable (Ferritique)",
+    "Applications typiques": "Systèmes d'échappement, cuves, remplacements économiques au 304 (sauf soudage)",
+    "Type de traitement": "Inox ferritique (18% Cr - Ti, Nb stabilisé)",
+    "Norme": "EN 10088-1 (1.4509)",
+    "État de surface": "Tôles laminées à froid, fini 2B",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 444",
+    "Catégorie": "Acier inoxydable (Ferritique)",
+    "Applications typiques": "Industrie alimentaire, chauffe-eau, environnements chlorés légers (remplacement 316)",
+    "Type de traitement": "Inox ferritique (18% Cr - 2% Mo - Ti, Nb)",
+    "Norme": "EN 10088-1 (1.4521)",
+    "État de surface": "Tôles laminées à froid, fini 2B",
+    "Lien": ""
+  },
+  {
+    "Nom": "AISI 904L",
+    "Catégorie": "Acier inoxydable (Austénitique)",
+    "Applications typiques": "Industries acides, acide sulfurique, composants de mécanique très haute résistance à la corrosion",
+    "Type de traitement": "Inox austénitique spécial (20% Cr - 25% Ni - 4.5% Mo - Cu)",
+    "Norme": "EN 10088-1 (1.4539)",
+    "État de surface": "Tôles laminées à froid, fini 2B",
+    "Lien": ""
+  }
+];
