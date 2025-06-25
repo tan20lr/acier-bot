@@ -1,7 +1,4 @@
-return [{
-  json: {
-    message_utilisateur: $json["message"]["text"],
-    base_aciers: [
+[
   {
     "Nom": "S185",
     "Catégorie": "Acier de construction (LAC)",
